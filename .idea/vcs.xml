@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/JavaMeet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TEST TASK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aggregation-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays-task01-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays-task02-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays-task03-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classes-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/contact-book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/electronic-watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exceptions-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow-control-task01-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow-control-task02-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flow-control-task03-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function-task01-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function-task02-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function-task03-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function-task04-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritance-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interfaces-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro-java-task01-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intro-java-task02-master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-meet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/loops-skeleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/meet-a-stranger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/validations-epam-email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/words" vcs="Git" />
+  </component>
+</project>
